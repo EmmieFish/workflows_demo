@@ -6,5 +6,6 @@ def main():
         # let's make this script fail for Python 3.6
         raise Exception('Python version 3.6.x is unsupported!')
 
+        
 if __name__ == "__main__":
     main()
